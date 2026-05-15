@@ -1,0 +1,8 @@
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+bin/
+AGENTS_Streamlit_Dashboard.md
